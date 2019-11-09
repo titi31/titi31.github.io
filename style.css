@@ -20,3 +20,11 @@ a:hover{
 .navbar-brand{
     color: black;
 }
+h1{
+    color: white;
+    margin-left: 40%;
+}
+p{
+    color: white;
+    margin-left: 40%;
+}
