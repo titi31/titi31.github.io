@@ -1,0 +1,22 @@
+body{
+    
+   
+    background-image: url('background.jpg') ;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: white; 
+}
+.navbar{
+    background-color: rgb(24, 100, 172);
+    
+}
+li a {
+    color: white;
+    font-weight: 500;
+}
+a:hover{
+    background-color: yellow;
+}
+.navbar-brand{
+    color: black;
+}
